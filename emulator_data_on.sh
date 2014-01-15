@@ -5,6 +5,4 @@ spawn telnet localhost 5554
 expect "OK"
 send "gsm data on\n"
 expect "OK"
-#send "gsm voice off"
-#expect "OK"
 send "quit\n"
