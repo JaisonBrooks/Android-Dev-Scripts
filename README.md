@@ -8,7 +8,7 @@ Example
 :Key Commands are as follows:
 
 ==Launch Emulator w/ Wiped DB==
-~$ emulator -avd NAME_OF_EMULATOR -wipe-data > /dev/null 2>&1 &
+~$ emulator -avd NAME_OF_EMULATOR -wipe-data > /dev/null 2>&1
 
 ==Turn Emulator Data connection Off or On
 ~$ telnet localhost 5554
