@@ -16,6 +16,6 @@ Example
 
 ----or----
 ~$ gsm data on
-*/ to re-enable the data when needed */
+/* to re-enable the data when needed */
 
 ```
