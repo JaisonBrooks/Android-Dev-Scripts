@@ -1,7 +1,7 @@
 Android-Dev-Scripts
 ===================
 
-These #Bash scripts with basic linux commands for the Android SDK Emulator. These were basic commands that were very useful to me when testing my Android Applications
+These simple Bash scripts with basic linux commands for the Android SDK Emulator. These were basic commands that were very useful to me when testing my Android Applications
 
 Example
 ```
